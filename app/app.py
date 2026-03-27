@@ -224,3 +224,4 @@ Based on the model analysis and feature importance results, several factors sign
 • Provide **special retention offers for high-charge customers** to reduce churn risk.  
 • Focus retention campaigns on **new customers with low tenure**.
 """)
+
