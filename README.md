@@ -141,3 +141,16 @@ Based on the model insights:
 - Provide **retention offers to high-charge customers**
 - Focus retention strategies on **new customers with low tenure**
 
+<h2>📜 License</h2>
+<p>
+  This project is licensed under the <strong>MIT License</strong>. Feel free to use, modify, and contribute!
+</p>
+
+---
+
+
+<h2>🌐 Connect With Me</h2>
+<p align="center">
+  <a href="https://github.com/Anildas-05">🐙 GitHub</a> |
+  <a href="https://www.linkedin.com/in/anilkumardas5">🔗 LinkedIn</a> 
+</p>
