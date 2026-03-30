@@ -54,8 +54,8 @@ with tab1:
         ["Electronic check","Mailed check","Bank transfer (automatic)","Credit card (automatic)"]
     )
 
-    monthly = st.number_input("Monthly Charges",0.0,200.0)
-    total = st.number_input("Total Charges",0.0,10000.0)
+    monthly = st.number_input("Monthly Charges",0.0,2000.0)
+    total = st.number_input("Total Charges",0.0,100000.0)
 
 
     data = pd.DataFrame({
